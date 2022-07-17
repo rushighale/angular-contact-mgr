@@ -25,6 +25,8 @@ export class ViewContactComponent implements OnInit {
       this.contactId =param.get('contactId');
     });
 
+    
+
     if(this.contactId){
       this.loading=true;
       this.contactService.getContact(this.contactId).subscribe((data:IContact)=>{
