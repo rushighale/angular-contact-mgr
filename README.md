@@ -1,5 +1,6 @@
 # AngularContactMgr
 
+#### steps to create db.json :- 1. create file in asset db.json 2. npm i json-server -g 3. take path of asset and type-> json-server --watch db.json
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
