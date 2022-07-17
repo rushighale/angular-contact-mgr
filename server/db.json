@@ -1,0 +1,116 @@
+{
+  "contacts": [
+    {
+      "id": "Tvbrgr",
+      "name": "Elma Herring",
+      "company": "YouTube",
+      "email": "elmaherring@unq.com",
+      "title": "YouTuber",
+      "mobile": "+1 (913) 497-2020",
+      "photo": "",
+      "groupId": "3"
+    },
+    {
+      "id": "Tvnd1",
+      "name": "Elma Herring",
+      "company": "YouTube",
+      "email": "elmaherring@unq.com",
+      "title": "YouTuber",
+      "mobile": "+1 (913) 497-2020",
+      "photo": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "Tvnd2",
+      "name": "Elma Herring",
+      "company": "YouTube",
+      "email": "elmaherring@unq.com",
+      "title": "YouTuber",
+      "mobile": "+1 (913) 497-2020",
+      "photo": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "Tvnd3",
+      "name": "Elma Herring",
+      "company": "YouTube",
+      "email": "elmaherring@unq.com",
+      "title": "YouTuber",
+      "mobile": "+1 (913) 497-2020",
+      "photo": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "tvnd4",
+      "name": "Elma Herring",
+      "company": "YouTube",
+      "email": "elmaherring@unq.com",
+      "title": "YouTuber",
+      "mobile": "+1 (913) 497-2020",
+      "photo": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "Tvnd6",
+      "name": "Elma Herring",
+      "company": "YouTube",
+      "email": "elmaherring@unq.com",
+      "title": "YouTuber",
+      "mobile": "+1 (913) 497-2020",
+      "photo": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "groupId": "3"
+    },
+    {
+      "name": "Rushikesh",
+      "photo": "afd",
+      "email": "rushighale007@gmail.com",
+      "mobile": "7878487551",
+      "groupId": "2",
+      "id": "3HNavu-"
+    },
+    {
+      "name": "rush",
+      "photo": "add",
+      "email": "rushi123@gmail.com",
+      "mobile": "95645222",
+      "groupId": "4",
+      "id": "imnv8DG"
+    },
+    {
+      "name": "ganesh",
+      "photo": "xys",
+      "email": "ganesh@gmail.com",
+      "mobile": "78874875851",
+      "company": "ibm",
+      "title": "developer",
+      "groupId": "5",
+      "id": "lQdd22A"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friends"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Office"
+    }
+  ]
+}
