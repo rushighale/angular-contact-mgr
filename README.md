@@ -3,6 +3,12 @@
 #### steps to create db.json :- 1. create file in asset db.json 2. npm i json-server -g 3. take path of asset and type-> json-server --watch db.json
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
+
+
+
+![Screenshot (2533)](https://user-images.githubusercontent.com/92543177/179604615-37f7f32c-831f-4d29-b56d-38b54f64e947.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
